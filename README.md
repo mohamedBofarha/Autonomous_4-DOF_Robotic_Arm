@@ -1,13 +1,13 @@
-# 🤖 4-DOF Robotic Arm Project
+#  4-DOF Robotic Arm Project
 
-## 🧭 Project Overview
+##  Project Overview
 This project was developed as part of the **Robotics & Cobotics** program at the **EuroMed University of Fez**, within the **Digital Engineering and Artificial Intelligence School (EIDIA)**.  
 It focuses on the **design, modeling, and implementation** of a **4-Degree-of-Freedom (DOF) robotic arm**, completed during the **2024–2025 academic year** under the *Conception and Modeling of Robotic Systems* module.
 
-### 👨‍🏫 Supervised by
+###  Supervised by
 - **Prof. Zakaria Chalh**
 
-### 👩‍💻 Developed by
+###  Developed by
 - **Mohamed Bofarha**  
 - **Omar El Alaoui**  
 - **Bouarfa Lahmr**  
@@ -15,7 +15,7 @@ It focuses on the **design, modeling, and implementation** of a **4-Degree-of-Fr
 
 ---
 
-## 📚 Table of Contents
+##  Table of Contents
 1. [Executive Summary](#executive-summary)  
 2. [Introduction](#introduction)  
 3. [Mechanical Design](#mechanical-design)  
@@ -30,7 +30,7 @@ It focuses on the **design, modeling, and implementation** of a **4-Degree-of-Fr
 
 ---
 
-## 🧩 Executive Summary
+##  Executive Summary
 This project presents the **design and implementation** of a **4-DOF robotic arm** capable of performing precise manipulation tasks.  
 The main objective was to integrate **mechanical**, **electronic**, and **software** components into a functional robotic system.
 
@@ -44,7 +44,7 @@ Despite time and resource constraints, the project successfully demonstrated pra
 
 ---
 
-## 🏗️ Introduction
+##  Introduction
 
 ### Context and Motivation
 Automation is a foundation of modern industry. Robotic arms are essential in tasks requiring **precision**, **efficiency**, and **repeatability**.  
@@ -59,7 +59,7 @@ This project bridges theoretical robotics knowledge with hands-on engineering ex
 
 ---
 
-## ⚙️ Mechanical Design
+##  Mechanical Design
 
 ### Degrees of Freedom (DOF)
 The **4-DOF configuration** offers a balance between **precision, complexity, and cost**, suitable for manipulation tasks in academic and industrial applications.
@@ -77,7 +77,7 @@ A 3D model was created and adapted using CAD tools to ensure modularity and **3D
 
 ---
 
-## 📐 Kinematics
+##  Kinematics
 
 ### Theoretical Kinematics
 Forward and inverse kinematics were implemented using the **Denavit–Hartenberg (DH)** convention.
@@ -94,7 +94,7 @@ Forward and inverse kinematics were implemented using the **Denavit–Hartenberg
 
 ---
 
-## 🧰 Prototyping and Fabrication
+##  Prototyping and Fabrication
 
 ### 3D Printing
 All components were printed using **PLA** material and assembled manually.
@@ -113,7 +113,7 @@ All components were printed using **PLA** material and assembled manually.
 
 ---
 
-## ⚡ Electronic Architecture and Control
+##  Electronic Architecture and Control
 
 | Component | Function |
 |------------|-----------|
@@ -124,7 +124,7 @@ All components were printed using **PLA** material and assembled manually.
 
 ---
 
-## 💻 Programming
+##  Programming
 
 - **Language:** Python  
 - **Libraries:**  
@@ -135,7 +135,7 @@ The GUI allows **trajectory planning**, **joint movement control**, and **manual
 
 ---
 
-## 🧪 Simulation
+##  Simulation
 Simulations were performed in **RViz** and **Gazebo** to validate the robotic arm’s motion before physical implementation.
 
 <p align="center">
@@ -144,7 +144,7 @@ Simulations were performed in **RViz** and **Gazebo** to validate the robotic ar
 
 ---
 
-## ⚠️ Constraints and Limitations
+##  Constraints and Limitations
 
 ### Constraints
 - **Time:** Limited project duration.  
@@ -161,7 +161,7 @@ Simulations were performed in **RViz** and **Gazebo** to validate the robotic ar
 
 ---
 
-## 📊 Results and Discussion
+##  Results and Discussion
 - Achieved **precise movement** with an average positioning error < **2 cm**.  
 - Forward and inverse kinematics validated in both simulation and reality.  
 - Some **singularities** caused minor instability in certain configurations.  
@@ -169,21 +169,21 @@ Simulations were performed in **RViz** and **Gazebo** to validate the robotic ar
 
 ---
 
-## 🧠 Conclusion and Future Work
+##  Conclusion and Future Work
 
 ### Conclusion
 This project successfully demonstrated the design and implementation of a **4-DOF robotic arm**, applying theoretical and practical knowledge from mechanical, electronic, and software domains.
 
 ### Future Work
-- 🔧 **Improved Precision:** Add encoders or torque sensors.  
-- 🧠 **Intelligent Control:** Integrate AI or ML for path planning.  
-- ⚡ **Power Management:** Enhance regulation and safety.  
-- ⚙️ **Durability:** Upgrade servos for long-term stability.  
+-  **Improved Precision:** Add encoders or torque sensors.  
+-  **Intelligent Control:** Integrate AI or ML for path planning.  
+-  **Power Management:** Enhance regulation and safety.  
+-  **Durability:** Upgrade servos for long-term stability.  
 
-📄 *For more details, refer to the full project report (French version).*
+ *For more details, refer to the full project report (French version).*
 
 ---
 
-### 👤 Authors
+###  Authors
 **Mohamed Bofarha**, **Omar El Alaoui**, **Bouarfa Lahmr**, **Hiba Mouhsine**  
-📍 *EuroMed University of Fez — EIDIA, 2024–2025*
+ *EuroMed University of Fez — EIDIA, 2024–2025*
