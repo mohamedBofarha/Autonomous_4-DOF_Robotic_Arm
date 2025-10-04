@@ -100,7 +100,7 @@ Forward and inverse kinematics were implemented using the **Denavit–Hartenberg
 All components were printed using **PLA** material and assembled manually.
 
 <p align="center">
-  <img src="printing.jpg" alt="3D Printing Process" width="450"/>
+  <img src="printing.PNG" alt="3D Printing Process" width="450"/>
 </p>
 
 ### Assembly
@@ -108,7 +108,7 @@ All components were printed using **PLA** material and assembled manually.
 - Proper **cable management** and calibration ensured smooth joint movement.
 
 <p align="center">
-  <img src="final_arm.jpg" alt="Final 4-DOF Robotic Arm" width="450"/>
+  <img src="arm.jpg" alt="Final 4-DOF Robotic Arm" width="450"/>
 </p>
 
 ---
@@ -139,7 +139,7 @@ The GUI allows **trajectory planning**, **joint movement control**, and **manual
 Simulations were performed in **RViz** and **Gazebo** to validate the robotic arm’s motion before physical implementation.
 
 <p align="center">
-  <img src="simulation.jpg" alt="RViz and Gazebo Simulation" width="450"/>
+  <img src="simulation.jpeg" alt="RViz and Gazebo Simulation" width="450"/>
 </p>
 
 ---
