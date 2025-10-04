@@ -8,8 +8,8 @@ It focuses on the **design, modeling, and implementation** of a **4-Degree-of-Fr
 - **Prof. Zakaria Chalh**
 
 ### 👩‍💻 Developed by
-- **Omar El Alaoui**  
 - **Mohamed Bofarha**  
+- **Omar El Alaoui**  
 - **Bouarfa Lahmr**  
 - **Hiba Mouhsine**
 
